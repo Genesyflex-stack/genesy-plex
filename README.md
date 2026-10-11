@@ -132,3 +132,25 @@ For collaboration opportunities, protocol discussions, and technical contributio
 ---
 
 Genesy Plex — decentralized internet, privacy by design, and a stronger foundation for user control over digital life.
+
+---
+
+## Security Policy
+
+### Supported Versions
+
+Only the current main development branch of Genesy Plex is supported for security updates. As the project is in an early proof-of-concept phase, no legacy versions or stable releases exist yet.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| dev     | :white_check_mark: |
+
+### Reporting a Vulnerability
+
+We take the security of Genesy Plex, its decentralized proxy layer, and its future users very seriously. Because the project aims to build an invulnerable, privacy-first infrastructure, responsible disclosure is vital.
+
+If you find a security vulnerability, please do not open a public issue. Instead, follow this reporting protocol:
+
+1. Send an encrypted report to our secure communications channel or use the temporary contact provided in our main repository discussion board.
+2. Include a detailed description of the vulnerability, the potential impact, and clear steps to reproduce the issue.
+3. Allow the core maintenance team a reasonable window of time to review, patch, and test the vulnerability before making any public disclosure.
