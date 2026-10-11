@@ -3,7 +3,7 @@
 Genesy Plex is a decentralized web protocol and privacy-first network architecture designed to protect users from surveillance, tracking, malware, and centralized control over online access.
 
 The project aims to build an experimental browser and a decentralized proxy infrastructure that filters traffic in real time, removes abusive tracking layers, eliminates forced advertising, and delivers clean, secure, privacy-preserving content over modern network environments, including 5G-connected devices.
-
+[Download the Official Whitepaper PDF](./Proyecto_Genesy_Plex_Plan_Maestro.pdf)**
 ## Vision
 
 The current internet is dominated by surveillance capitalism, intrusive advertising systems, opaque tracking mechanisms, and centralized architecture that concentrates power in the hands of a few dominant actors. We believe the web should be designed around the needs of people—not around extraction, manipulation, or control.
